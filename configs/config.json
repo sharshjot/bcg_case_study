@@ -1,0 +1,23 @@
+{
+	"INPUT" : 
+	{
+		"CHARGES_FILE_PATH":"../input/Charges_use.csv",
+		"DAMAGES_FILE_PATH":"../input/Damages_use.csv",
+		"ENDORSE_FILE_PATH":"../input/Endorse_use.csv",
+		"PRIMARY_PERSON_FILE_PATH":"../input/Primary_Person_use.csv",
+		"RESRICT_FILE_PATH":"../input/Restrict_use.csv",
+		"UNITS_DATA_PATH":"../input/Units_use.csv"
+		
+	},
+	"OUTPUT" :
+	{
+		"ANALYSIS_1":"../output/Analysis_1/",
+		"ANALYSIS_2":"../output/Analysis_2/",
+		"ANALYSIS_3":"../output/Analysis_3/",
+		"ANALYSIS_4":"../output/Analysis_4/",
+		"ANALYSIS_5":"../output/Analysis_5/",
+		"ANALYSIS_6":"../output/Analysis_6/",
+		"ANALYSIS_7":"../output/Analysis_7/",
+		"ANALYSIS_8":"../output/Analysis_8/"
+	}
+}
